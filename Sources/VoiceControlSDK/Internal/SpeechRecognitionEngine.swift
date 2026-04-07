@@ -149,7 +149,7 @@ final class SpeechRecognitionEngine: NSObject {
         recognitionTask = nil
 
         let audioSession = AVAudioSession.sharedInstance()
-        try audioSession.setCategory(.playAndRecord, mode: .measurement, options: [.defaultToSpeaker, .allowBluetooth])
+        try audioSession.setCategory(.playAndRecord, mode: .default, options: [.defaultToSpeaker, .allowBluetooth])
         try audioSession.setActive(true, options: .notifyOthersOnDeactivation)
 
         recognitionRequest = SFSpeechAudioBufferRecognitionRequest()
