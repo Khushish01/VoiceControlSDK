@@ -1,0 +1,3 @@
+module VoiceControlSDKPackageTests {
+    header "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDKPackageTests.build/include/VoiceControlSDKPackageTests-Swift.h"
+}

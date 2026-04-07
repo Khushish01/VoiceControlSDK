@@ -1,0 +1,12 @@
+/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/Internal/CommandInterpreterEngine.swift
+/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/Internal/CommandQueue.swift
+/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/Internal/FeedbackEngine.swift
+/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/Internal/LevenshteinDistance.swift
+/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/Internal/NumberExtractor.swift
+/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/Internal/SpeechRecognitionEngine.swift
+/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/VoiceCommandResult.swift
+/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/VoiceControlConfiguration.swift
+/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/VoiceControlDelegate.swift
+/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/VoiceControlEngine.swift
+/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/VoiceControlError.swift
+/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/VoiceControlState.swift

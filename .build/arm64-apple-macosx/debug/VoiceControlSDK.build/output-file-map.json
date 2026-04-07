@@ -1,0 +1,89 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/master.swiftdeps"
+  },
+  "/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/Internal/CommandInterpreterEngine.swift": {
+    "dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/CommandInterpreterEngine.d",
+    "object": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/CommandInterpreterEngine.swift.o",
+    "swiftmodule": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/CommandInterpreterEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/CommandInterpreterEngine.swiftdeps",
+    "diagnostics": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/CommandInterpreterEngine.dia"
+  },
+  "/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/Internal/CommandQueue.swift": {
+    "dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/CommandQueue.d",
+    "object": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/CommandQueue.swift.o",
+    "swiftmodule": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/CommandQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/CommandQueue.swiftdeps",
+    "diagnostics": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/CommandQueue.dia"
+  },
+  "/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/Internal/FeedbackEngine.swift": {
+    "dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/FeedbackEngine.d",
+    "object": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/FeedbackEngine.swift.o",
+    "swiftmodule": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/FeedbackEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/FeedbackEngine.swiftdeps",
+    "diagnostics": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/FeedbackEngine.dia"
+  },
+  "/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/Internal/LevenshteinDistance.swift": {
+    "dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/LevenshteinDistance.d",
+    "object": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/LevenshteinDistance.swift.o",
+    "swiftmodule": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/LevenshteinDistance~partial.swiftmodule",
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/LevenshteinDistance.swiftdeps",
+    "diagnostics": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/LevenshteinDistance.dia"
+  },
+  "/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/Internal/NumberExtractor.swift": {
+    "dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/NumberExtractor.d",
+    "object": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/NumberExtractor.swift.o",
+    "swiftmodule": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/NumberExtractor~partial.swiftmodule",
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/NumberExtractor.swiftdeps",
+    "diagnostics": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/NumberExtractor.dia"
+  },
+  "/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/Internal/SpeechRecognitionEngine.swift": {
+    "dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/SpeechRecognitionEngine.d",
+    "object": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/SpeechRecognitionEngine.swift.o",
+    "swiftmodule": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/SpeechRecognitionEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/SpeechRecognitionEngine.swiftdeps",
+    "diagnostics": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/SpeechRecognitionEngine.dia"
+  },
+  "/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/VoiceCommandResult.swift": {
+    "dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceCommandResult.d",
+    "object": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceCommandResult.swift.o",
+    "swiftmodule": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceCommandResult~partial.swiftmodule",
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceCommandResult.swiftdeps",
+    "diagnostics": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceCommandResult.dia"
+  },
+  "/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/VoiceControlConfiguration.swift": {
+    "dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlConfiguration.d",
+    "object": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlConfiguration.swift.o",
+    "swiftmodule": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlConfiguration.swiftdeps",
+    "diagnostics": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlConfiguration.dia"
+  },
+  "/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/VoiceControlDelegate.swift": {
+    "dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlDelegate.d",
+    "object": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlDelegate.swift.o",
+    "swiftmodule": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlDelegate.swiftdeps",
+    "diagnostics": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlDelegate.dia"
+  },
+  "/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/VoiceControlEngine.swift": {
+    "dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlEngine.d",
+    "object": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlEngine.swift.o",
+    "swiftmodule": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlEngine.swiftdeps",
+    "diagnostics": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlEngine.dia"
+  },
+  "/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/VoiceControlError.swift": {
+    "dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlError.d",
+    "object": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlError.swift.o",
+    "swiftmodule": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlError~partial.swiftmodule",
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlError.swiftdeps",
+    "diagnostics": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlError.dia"
+  },
+  "/Users/vismayvachhani/Documents/VoiceControlSDK/Sources/VoiceControlSDK/VoiceControlState.swift": {
+    "dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlState.d",
+    "object": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlState.swift.o",
+    "swiftmodule": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlState~partial.swiftmodule",
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlState.swiftdeps",
+    "diagnostics": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDK.build/VoiceControlState.dia"
+  }
+}

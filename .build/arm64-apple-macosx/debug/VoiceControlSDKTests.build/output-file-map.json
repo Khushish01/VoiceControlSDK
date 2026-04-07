@@ -1,0 +1,12 @@
+{
+  "": {
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDKTests.build/master.swiftdeps"
+  },
+  "/Users/vismayvachhani/Documents/VoiceControlSDK/Tests/VoiceControlSDKTests/LevenshteinDistanceTests.swift": {
+    "dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDKTests.build/LevenshteinDistanceTests.d",
+    "object": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDKTests.build/LevenshteinDistanceTests.swift.o",
+    "swiftmodule": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDKTests.build/LevenshteinDistanceTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDKTests.build/LevenshteinDistanceTests.swiftdeps",
+    "diagnostics": "/Users/vismayvachhani/Documents/VoiceControlSDK/.build/arm64-apple-macosx/debug/VoiceControlSDKTests.build/LevenshteinDistanceTests.dia"
+  }
+}
